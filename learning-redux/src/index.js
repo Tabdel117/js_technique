@@ -13,7 +13,10 @@ const store = createStore(reducer);
 ReactDOM.render(<Provider store={store}>
     <div>
         <App />
-    <CounterDisplay/>
+        
+            <CounterDisplay/>
+        
+        )
     </div>
 </Provider>, document.getElementById('root'));
 registerServiceWorker();
