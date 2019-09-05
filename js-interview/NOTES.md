@@ -1,6 +1,9 @@
 # 面试记录
 
 ## 腾讯
+
+### 春招
+
 🐧一面：
 - JS数据类型,symbol
 - React Dom diff
@@ -70,3 +73,30 @@
 - 项目中遇到的问题
 - react hooks具体如何使用
 - 超大整数相加
+
+### 秋招
+
+🐧csig
+一面（❌）
+- react hooks的functional component与react class的差别
+- XSS, CSRF
+- 输入url发生的事情
+- JS, CSS, HTML加载、解析的关系
+- HTTP协议中GET和POST在实现上的差别
+- reflow, repaint（display: none/ visibility: hidden）
+- 正则表达式 
+
+🐧腾讯视频
+一面
+- xss,csrf
+- websocket会自动断开吗，如何再次连接
+
+二面
+- websocket多机转发
+- node多进程（？）
+- 首屏时间如何算
+- 长列表组件如何计算性能
+- es6 proxy
+- csrf token
+- 精准的时钟
+- 实习工作， H5如何优化性能
