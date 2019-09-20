@@ -28,5 +28,4 @@ var canMakePaliQuery = function(s, left, right, k) {
     return true;
 }
 
-const result = canMakePaliQueries('abcda', [[3,3,0],[1,2,0],[0,3,1],[0,3,2],[0,4,1]]);
-console.log(result)
+canMakePaliQueries('abcda', [[3,3,0],[1,2,0],[0,3,1],[0,3,2],[0,4,1]]);
